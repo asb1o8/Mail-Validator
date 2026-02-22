@@ -43,7 +43,7 @@ ul li a{                      /*using this as the default lins are always in blu
     text-decoration: none;   /* use to remove underline from Home, About etc. */
 }
 ul>li>a:hover{
-    color: #c42424;
+    color: #23bf23;
 }
 main{
     min-height: 90vh; /* use to set the height of the main area(body part of the website) */
@@ -389,4 +389,5 @@ footer{
     width: 40px;
     filter: none; /* Restore original colors */
   }
+
 } 
